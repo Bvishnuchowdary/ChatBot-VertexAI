@@ -6,6 +6,10 @@
 - Automated responses for approvals
 -  Research and Reporting
 
+## Live Demo
+
+Check out the live demo of the project here: [Chat Bot Vertex AI](https://chat-bot-vertex-ai.vercel.app/)
+
 ## For User ##
 
 **Professional Purpose**
